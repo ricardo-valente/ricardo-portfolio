@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "test"
+    "start": "start"
   },
   "author": "Ricardo Valente",
   "license": "MIT"
