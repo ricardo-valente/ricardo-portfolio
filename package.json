@@ -8,8 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js",
-    "test": "test"
+    "start": "node index.js"
   },
   "author": "Ricardo Valente",
   "license": "MIT"
